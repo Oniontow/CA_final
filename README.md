@@ -16,4 +16,4 @@ CPU should support the following instructions to pass all the patterns.
  • lw, sw   
  • add, sub, addi, slli, srli, srai, slti   
  • beq, bne, bge, blt, jal, jalr, auipc, lui   
- • mul, divu, remu    
+ • mul, divu, remu (the three operation takes 33 cycles in total)   
